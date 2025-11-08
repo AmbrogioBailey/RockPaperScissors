@@ -1,0 +1,44 @@
+
+.btn-move{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    padding: 10px 12px;
+    border: 4px solid navy;
+    border-radius: 17px;
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 400;
+}
+
+button:hover{
+    background-color: greenyellow;
+}
+
+h1{
+    text-align: center;
+    color: #4682B4;
+    font-size: 50px;
+    font-family: "Carter One", system-ui;
+    font-weight: 400;
+}
+
+img{
+    display:block;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+
+
+body{
+    background-color: #B6D0E2;
+   
+    
+}
+
+
+
