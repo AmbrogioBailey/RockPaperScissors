@@ -5,7 +5,7 @@
 A simple Rock, Paper, Scissors web game built with HTML, CSS, and JavaScript. Play against the computer, test your luck, and see who wins best out of three rounds!
 
 🚀 Live Demo
-(If you host it on GitHub Pages, Netlify, or similar, add your link here) 👉 Play the Game
+👉 Play the Game- https://rockpsgameplay.netlify.app/
 
 🧩 Features
 * Interactive "Play Game" button to start a round.
